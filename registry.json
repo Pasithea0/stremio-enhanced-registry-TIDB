@@ -1,109 +1,117 @@
 {
   "plugins": [
+      {
+        "name": "Stremio AniSkip",
+        "author": "REVENGE977",
+        "description": "A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.",
+        "version": "1.0.0",
+        "repo": "https://github.com/REVENGE977/stremio-aniskip",
+        "download": "https://raw.githubusercontent.com/REVENGE977/stremio-aniskip/refs/heads/main/dist/AniSkip.plugin.js"
+      },
+      {
+        "name": "Stremio Addon Manager",
+        "author": "Sul-404",
+        "description": "Enhanced UI for managing, reordering, and backing up addons.",
+        "version": "1.1.0",
+        "repo": "https://github.com/Sul-404/Stremio-Addon-Manager",
+        "download": "https://raw.githubusercontent.com/Sul-404/Stremio-Addon-Manager/main/addon-manager.1.1.0.plugin.js"
+      },
+      {
+        "name": "Slash to Search",
+        "author": "REVENGE977",
+        "description": "A simple plugin that allows you to search for movies, series, and anime by typing a slash (/) in the search bar.",
+        "version": "1.0.1",
+        "repo": "https://github.com/REVENGE977/stremio-slash-to-search",
+        "download": "https://raw.githubusercontent.com/REVENGE977/SlashToSearch/refs/heads/main/SlashToSearch.plugin.js"
+      },
+      {
+        "name": "FilterStreams",
+        "author": "0xA18",
+        "description": "Filters a movie's/tv show episode's streams",
+        "version": "0.1.5",
+        "repo": "https://github.com/0xA18/stremio-enhanced-plugins/",
+        "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta-3.2/filter-streams.plugin.js"
+      },
+      {
+        "name": "Stremio Intro Skip",
+        "author": "shugi12345",
+        "description": "Community-powered “Skip Intro” for shows and movies in Stremio Enhanced.",
+        "version": "1.1.0",
+        "repo": "https://github.com/shugi12345/stremio-skip-button",
+        "download": "https://github.com/shugi12345/stremio-skip-button/releases/download/v1.1.0/skip-intro.plugin.js"
+      },
+      {
+      "name": "EnhancedCovers [Modern Glass]",
+      "author": "Fxy rewritten and improved by MrBlu03",
+      "description": "Widens the cover images in the Continue Watching section using background images with logo overlay.",
+      "version": "26.0.1",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/enhanced-covers.plugin.js"
+    },
     {
-      "name": "Stremio AniSkip",
-      "author": "REVENGE977",
-      "description": "A plugin that integrates the AniSkip API into Stremio to automatically skip openings and endings when watching anime.",
-      "version": "1.0.0",
-      "repo": "https://github.com/REVENGE977/stremio-aniskip",
-      "download": "https://raw.githubusercontent.com/REVENGE977/stremio-aniskip/refs/heads/main/dist/AniSkip.plugin.js"
+      "name": "Enhanced Video Player [Modern Glass]",
+      "author": "Fxy",
+      "description": "Enhances the video player with additional features and designs.",
+      "version": "26.0.1",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/enhanced-player.plugin.js"
+    },
+    {
+      "name": "Enhanced Title Bar [Modern Glass]",
+      "author": "Fxy",
+      "description": "Enhances the title bar with additional information.",
+      "version": "26.0.1",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/enhanced-titlebar.plugin.js"
+    },
+    {
+      "name": "Dynamic Hero [Modern Glass]",
+      "author": "Fxy",
+      "description": "Netflix-style rotating hero banner.",
+      "version": "26.0.1",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/hero-div.plugin.js"
+    },
+    {
+      "name": "Horizontal Navigation [Modern Glass]",
+      "author": "Fxy",
+      "description": "Moves your vertical navigation bar to a horizontal position.",
+      "version": "26.0.1",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/horizontal-navigation.plugin.js"
+    },
+    {
+      "name": "Initializer [Modern Glass]",
+      "author": "Fxy",
+      "description": "Initializes plugins, checks for required dependencies and updates",
+      "version": "26.0.1",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/initializer.plugin.js"
+    },
+    {
+      "name": "Picture in Picture [Modern Glass]",
+      "author": "Fxy",
+      "description": "Adds a picture in picture button to the video player.",
+      "version": "26.0.1",
+      "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
+      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/picture-in-picture.plugin.js"
     },
     {
       "name": "Stremio Addon Manager",
-      "author": "Sul-404",
-      "description": "Enhanced UI for managing, reordering, and backing up addons.",
-      "version": "1.1.0",
-      "repo": "https://github.com/Sul-404/Stremio-Addon-Manager",
-      "download": "https://raw.githubusercontent.com/Sul-404/Stremio-Addon-Manager/main/addon-manager.1.1.0.plugin.js"
+      "author": "Zcc09",
+      "description": "Reorganize and rename your Stremio addons from the client.",
+      "version": "1.8.1",
+      "repo": "https://github.com/Zcc09/stremio-addon-manager-plugin",
+      "download": "https://github.com/Zcc09/stremio-addon-manager-plugin/releases/download/Release/stremio-addon-manager.plugin.js"
     },
     {
-      "name": "Slash to Search",
-      "author": "REVENGE977",
-      "description": "A simple plugin that allows you to search for movies, series, and anime by typing a slash (/) in the search bar.",
-      "version": "1.0.1",
-      "repo": "https://github.com/REVENGE977/stremio-slash-to-search",
-      "download": "https://raw.githubusercontent.com/REVENGE977/SlashToSearch/refs/heads/main/SlashToSearch.plugin.js"
-    },
-    {
-      "name": "FilterStreams",
-      "author": "0xA18",
-      "description": "Filters a movie's/tv show episode's streams",
-      "version": "0.1.5",
-      "repo": "https://github.com/0xA18/stremio-enhanced-plugins/",
-      "download": "https://github.com/0xA18/stremio-enhanced-plugins/releases/download/Beta-3.2/filter-streams.plugin.js"
-    },
-    {
-      "name": "Stremio Intro Skip",
-      "author": "shugi12345",
-      "description": "Community-powered “Skip Intro” for shows and movies in Stremio Enhanced.",
-      "version": "1.1.0",
-      "repo": "https://github.com/shugi12345/stremio-skip-button",
-      "download": "https://github.com/shugi12345/stremio-skip-button/releases/download/v1.1.0/skip-intro.plugin.js"
-    },
-    {
-    "name": "EnhancedCovers [Modern Glass]",
-    "author": "Fxy rewritten and improved by MrBlu03",
-    "description": "Widens the cover images in the Continue Watching section using background images with logo overlay.",
-    "version": "26.0.1",
-    "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-    "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/enhanced-covers.plugin.js"
-  },
-  {
-    "name": "Enhanced Video Player [Modern Glass]",
-    "author": "Fxy",
-    "description": "Enhances the video player with additional features and designs.",
-    "version": "26.0.1",
-    "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-    "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/enhanced-player.plugin.js"
-  },
-  {
-    "name": "Enhanced Title Bar [Modern Glass]",
-    "author": "Fxy",
-    "description": "Enhances the title bar with additional information.",
-    "version": "26.0.1",
-    "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-    "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/enhanced-titlebar.plugin.js"
-  },
-  {
-    "name": "Dynamic Hero [Modern Glass]",
-    "author": "Fxy",
-    "description": "Netflix-style rotating hero banner.",
-    "version": "26.0.1",
-    "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-    "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/hero-div.plugin.js"
-  },
-  {
-    "name": "Horizontal Navigation [Modern Glass]",
-    "author": "Fxy",
-    "description": "Moves your vertical navigation bar to a horizontal position.",
-    "version": "26.0.1",
-    "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-    "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/horizontal-navigation.plugin.js"
-  },
-  {
-    "name": "Initializer [Modern Glass]",
-    "author": "Fxy",
-    "description": "Initializes plugins, checks for required dependencies and updates",
-    "version": "26.0.1",
-    "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-    "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/initializer.plugin.js"
-  },
-  {
-    "name": "Picture in Picture [Modern Glass]",
-    "author": "Fxy",
-    "description": "Adds a picture in picture button to the video player.",
-    "version": "26.0.1",
-    "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-    "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.0.1/picture-in-picture.plugin.js"
-  },
-  {
-    "name": "Stremio Addon Manager",
-    "author": "Zcc09",
-    "description": "Reorganize and rename your Stremio addons from the client.",
-    "version": "1.8.1",
-    "repo": "https://github.com/Zcc09/stremio-addon-manager-plugin",
-    "download": "https://github.com/Zcc09/stremio-addon-manager-plugin/releases/download/Release/stremio-addon-manager.plugin.js"
-  }
+      "name": "Stream Quality Picker",
+      "author": "JZOnTheGit",
+      "description": "Groups streams by resolution with smart ranking, visual badges, seeder strength bars, and one-tap Best Pick buttons.",
+      "version": "1.4.0",
+      "repo": "https://github.com/JZOnTheGit/stream-quality-picker",
+      "download": "https://github.com/JZOnTheGit/stream-quality-picker/releases/download/v1.4.0/stream-quality-picker.plugin.js"
+    }
   ],
   "themes": [
     {
@@ -131,14 +139,6 @@
       "repo": "https://github.com/mouadbt/hide-titlebar-buttons",
       "preview": "https://raw.githubusercontent.com/mouadbt/hide-titlebar-buttons/main/assets/preview.png",
       "download": "https://raw.githubusercontent.com/mouadbt/hide-titlebar-buttons/main/hide-titlebar-buttons.theme.css"
-    },
-    {
-      "name": "Stream Quality Picker",
-      "author": "JZOnTheGit",
-      "description": "Groups streams by resolution with smart ranking, visual badges, seeder strength bars, and one-tap Best Pick buttons.",
-      "version": "1.4.0",
-      "repo": "https://github.com/JZOnTheGit/stream-quality-picker",
-      "download": "https://github.com/JZOnTheGit/stream-quality-picker/releases/download/v1.4.0/stream-quality-picker.plugin.js"
     }
   ]
 }
