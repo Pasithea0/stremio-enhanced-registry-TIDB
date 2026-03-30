@@ -129,7 +129,7 @@
       "description": "A theme that takes advantage of Modern Glass Styles with Light and Dark Theme.",
       "version": "v26.0.1",
       "repo": "https://github.com/Fxy6969/Stremio-Glass-Theme",
-      "download": "https://github.com/Fxy6969/Stremio-Glass-Theme/releases/download/26.1/liquid-glass.theme.css"
+      "download": "https://raw.githubusercontent.com/Fxy6969/Stremio-Glass-Theme/refs/heads/v26/themes/liquid-glass.theme.css"
     },
     {
       "name": "Amoled Dark",
